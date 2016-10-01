@@ -9,6 +9,7 @@ SystemJS.config({
         'app': './js/app.js',
         'home': './js/controllers/home.js',
         'browse': './js/controllers/browse.js',
+        'map': './js/controllers/map.js',
         'controllers': './js/controllers/controllers.js',
         'templates': './js/data/templates.js',
         'jquery-requester': './js/data/jquery-requester.js',
